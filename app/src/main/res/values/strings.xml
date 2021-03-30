@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mak Hong Lun Timothy 56600485 EE5415 Programming Exam</string>
+    <string name="title">Temperature Conversion</string>
+    <string name="input_temperature">Input Temperature:</string>
+    <string name="calculate">Calculate</string>
+    <string name="celsius">Celsius</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="kelvin">Kelvin</string>
+    <string name="about">About</string>
+    <string name="about_msg">Temperature Conversion for Celsius (C), Fahrenheit (F) and Kelvin (K)</string>
+    <string name="ok">Ok</string>
+    <string name="exit">Exit</string>
+    <string name="no_input">Please input a temperature</string>
+    <string name="bad_input">Please input numbers only</string>
+
+    <string-array name="choices">
+        <item>Celsius(C)</item>
+        <item>Fahrenheit(F)</item>
+        <item>Kelvin(K)</item>
+    </string-array>
+</resources>
